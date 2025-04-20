@@ -1,0 +1,16 @@
+# ninja log v6
+28	1561	7668227153547884	CMakeFiles/DirectX2DFrameWork.dir/D2DFramework.cpp.obj	6ea681cbfa0f4f2e
+24	1498	7668227153507869	CMakeFiles/DirectX2DFrameWork.dir/main.cpp.obj	ce956330847dc5a
+10	257	7668293153107950	build.ninja	f3f265cced20f50
+1561	1663	7668227168871333	DirectX2DFrameWork.exe	3e781d697ef46e03
+15	1648	7668495841806983	CMakeFiles/DirectX2DFrameWork.dir/main.cpp.obj	ce956330847dc5a
+21	1651	7668495841866996	CMakeFiles/DirectX2DFrameWork.dir/D2DFramework.cpp.obj	6ea681cbfa0f4f2e
+1651	1794	7668495858166839	DirectX2DFrameWork.exe	3e781d697ef46e03
+12	1507	7668539899754198	CMakeFiles/DirectX2DFrameWork.dir/main.cpp.obj	ce956330847dc5a
+18	1575	7668539899804210	CMakeFiles/DirectX2DFrameWork.dir/D2DFramework.cpp.obj	6ea681cbfa0f4f2e
+1577	1694	7668539915394849	DirectX2DFrameWork.exe	3e781d697ef46e03
+41	1628	7668601578642303	CMakeFiles/DirectX2DFrameWork.dir/main.cpp.obj	ce956330847dc5a
+47	1701	7668601578709715	CMakeFiles/DirectX2DFrameWork.dir/D2DFramework.cpp.obj	6ea681cbfa0f4f2e
+1701	1928	7668601595241393	DirectX2DFrameWork.exe	3e781d697ef46e03
+8	1620	7668608548096723	CMakeFiles/DirectX2DFrameWork.dir/D2DFramework.cpp.obj	6ea681cbfa0f4f2e
+1620	1741	7668608564219938	DirectX2DFrameWork.exe	3e781d697ef46e03
